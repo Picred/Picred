@@ -6,6 +6,6 @@ My projects:
 - [Database Cinema Project](https://github.com/Picred/cinema-database) 📚
 - [Brain Test Bot](https://github.com/Picred/brain-test-bot) 🧠
 
-[![Picred's GitHub stats](https://github-readme-stats.vercel.app/api?username=Picred)](https://github.com/Picred)
+[![Picred's GitHub stats](https://github-readme-stats.vercel.app/api?username=Picred&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Picred)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Picred)](https://github.com/Picred)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Picred&show_icons=true&theme=radical&layout=compact)](https://github.com/Picred)
