@@ -33,5 +33,8 @@
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
-[![Picred's GitHub stats](https://github-readme-stats.vercel.app/api?username=Picred&theme=dark&show_icons=true&rank_icon=github)](https://github.com/Picred)
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=picred&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=picred&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=picred&theme=dark&hide_border=true&background=FFFFFF00">
+</p>
