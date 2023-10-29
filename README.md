@@ -37,3 +37,13 @@
 <p align="justify">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=picred&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
+
+<!-- 
+  ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
+  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+--> 
+ 
