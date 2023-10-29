@@ -7,7 +7,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-stefan-61893b274/)](https://www.linkedin.com/in/andrei-stefan-61893b274/)
 
-https://www.linkedin.com/in/andrei-stefan-61893b274/
 
 <p align="justify">
   <strong>I'm Andrei Stefan</strong></u>
