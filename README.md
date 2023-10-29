@@ -38,6 +38,12 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=picred&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
 
+<br>
+<br>
+
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 <!-- 
   ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
   ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
