@@ -4,9 +4,10 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/andrei-stefan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-stefan/)](https://www.linkedin.com/in/andrei-stefan/)
+
+
 
 <p align="justify">
   <strong>I'm Andrei Stefan</strong></u>
