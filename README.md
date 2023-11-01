@@ -1,55 +1,50 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Developer!+💻;&center=true&size=30">
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Developer!+💻;&center=true&size=30">
+    </a>
+  </h1>
+
+  <a href="https://www.linkedin.com/in/andrei-stefan-61893b274/">
+      <img src="https://img.shields.io/badge/-Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white"
+          alt="Linkedin Badge">
   </a>
-</h1>
 
+  <p align="justify">
+    <strong>I'm Andrei Stefan</strong></u>
+    <br>
+    📚 I'm currently studying Computer Science (L-31) @ Università degli Studi di Catania
+    <br>
+    💻 I love writing code and learning about anything related to it
+  </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-stefan-61893b274/)](https://www.linkedin.com/in/andrei-stefan-61893b274/)
-
-
-<p align="justify">
-  <strong>I'm Andrei Stefan</strong></u>
-  <br>
-  📚 I'm currently studying Computer Science
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  🌱 I’m currently learning how to work with distributed systems and parallel programming on GPU
-</p>
-<h3 align="justify">🔥 Languages & Tools 🔥</h3>
+  <h3 align="justify">🔥 Languages & Tools 🔥</h3>
   <p align="justify">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,git,github,vscode" />
     </a>
   </p>
 
+  <h3 align="justify">📚 My Projects 📚</h3>
+  <ul>
+      <li><a href="https://github.com/Picred/ccn-check">Credit Card Number Checker</a> 💳</li>
+      <li><a href="https://github.com/Picred/hangman-game">Hangman Game</a> 🎮</li>
+      <li><a href="https://github.com/Picred/cinema-database">Database Cinema Project</a> 📚</li>
+      <li><a href="https://github.com/Picred/brain-test-bot">Brain Test Bot</a> 🧠</li>
+  </ul>
 
-<h3 align="justify">📚 My Projects 📚</h3>
+  <h2 align="justify">📊 Github Stats 📊</h2>
+  <p align="justify">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=picred&theme=dark&hide_border=true&background=FFFFFF00">
+  </p>
 
-- [Credit Card Number Checker](https://github.com/Picred/ccn-check) 💳
-- [Hangman Game](https://github.com/Picred/hangman-game) 🎮
-- [Database Cinema Project](https://github.com/Picred/cinema-database) 📚
-- [Brain Test Bot](https://github.com/Picred/brain-test-bot) 🧠
+  <br>
+  <br>
 
-<h2 align="justify">📊 Github Stats 📊</h2>
-
-<p align="justify">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=picred&theme=dark&hide_border=true&background=FFFFFF00">
-</p>
-
-<br>
-<br>
-
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-<!-- 
-  ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
-  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
---> 
- 
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quotes">
+  </a>
+</body>
+</html>
