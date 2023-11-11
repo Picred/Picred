@@ -12,6 +12,9 @@
           alt="Linkedin Badge">
   </a>
 
+![](https://komarev.com/ghpvc/?username=picred&color=36b812)<br>
+![](https://img.shields.io/github/stars/picred?style=social)<br>
+
   <p align="justify">
     <strong>I'm Andrei Stefan</strong></u>
     <br>
