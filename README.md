@@ -7,7 +7,7 @@
     </a>
   </h1>
 
-  <a href="https://www.linkedin.com/in/andrei-stefan-61893b274/">
+  <a href="https://www.linkedin.com/in/andrei-stefan-dev">
       <img src="https://img.shields.io/badge/-Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white"
           alt="Linkedin Badge">
   </a>
