@@ -12,8 +12,7 @@
           alt="Linkedin Badge">
   </a>
 
-![](https://komarev.com/ghpvc/?username=picred&color=36b812)<br>
-![](https://img.shields.io/github/stars/picred?style=social)<br>
+![Github Stars](https://img.shields.io/github/stars/picred?style=social)<br>
 
   <p align="justify">
     <strong>I'm Andrei Stefan</strong></u>
@@ -40,7 +39,7 @@
 
   <h2 align="justify">📊 Github Stats 📊</h2>
   <p align="justify">
-    <img src ="https://github-readme-streak-stats.herokuapp.com?user=picred&theme=dark&hide_border=true&background=FFFFFF00">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=picred&theme=dark&hide_border=true&background=FFFFFF00" alt="Github Stats">
   </p>
 
   <br>
