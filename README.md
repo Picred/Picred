@@ -31,10 +31,11 @@
 
   <h3 align="justify">📚 My Projects 📚</h3>
   <ul>
+      <li><a href="https://github.com/Picred/air-quality-monitor">Air Quality Monitor</a> 💨</li>
+      <li><a href="https://github.com/Picred/brain-test-bot">Brain Test Bot</a> 🧠</li>
+      <li><a href="https://github.com/Picred/cinema-database">Database Cinema Project</a> 📚</li>
       <li><a href="https://github.com/Picred/ccn-check">Credit Card Number Checker</a> 💳</li>
       <li><a href="https://github.com/Picred/hangman-game">Hangman Game</a> 🎮</li>
-      <li><a href="https://github.com/Picred/cinema-database">Database Cinema Project</a> 📚</li>
-      <li><a href="https://github.com/Picred/brain-test-bot">Brain Test Bot</a> 🧠</li>
   </ul>
 
   <h2 align="justify">📊 Github Stats 📊</h2>
