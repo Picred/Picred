@@ -56,11 +56,6 @@
 
 
 
-  <h2 align="justify">📊 Github Stats 📊</h2>
-  <p align="justify">
-    <img src ="https://github-readme-streak-stats.herokuapp.com?user=picred&theme=dark&hide_border=true&background=FFFFFF00" alt="Github Stats">
-  </p>
-
   <br>
   <br>
 
