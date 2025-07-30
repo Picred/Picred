@@ -16,7 +16,7 @@
   <p>
     <strong>I'm Andrei Stefan</strong></u>
     <br>
-    🎓 BSc in Computer Science @ Università degli Studi di Catania (2022–2025)
+    🎓 BSc in Computer Science @ Università degli Studi di Catania
     <br>
     📚 I'm currently studying Computer Engineering (LM-32) @ Politecnico di Torino
     <br>
