@@ -25,6 +25,7 @@
 
   <h3 align="justify">📚 My Projects 📚</h3>
   <ul>
+      <li><a href="https://github.com/Picred/cineaura">Maze Navigation (Contributor)</a> 🗺️ </li>
       <li><a href="https://github.com/Picred/cineaura">Cineaura</a> 🌐</li>
       <li><a href="https://github.com/Picred/air-quality-monitor">Air Quality Monitor</a> 📟</li>
       <li><a href="https://github.com/Picred/brain-test-bot">Brain Test Bot</a> 🧠</li>
