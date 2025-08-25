@@ -6,7 +6,6 @@
 
 ## 👋 About Me
 _Passionate about building efficient software solutions, experimenting with algorithms, and creating web applications that solve real-world problems._
-- 🎓 Bachelor's Degree in Computer Science @ [Università degli Studi di Catania](https://www.unict.it/)
 - 🧠 Master's Student in Computer Engineering @ [Politecnico di Torino](https://www.polito.it/)
 - 💻 Passionate about **Web Development**, **Software Engineering**
 - 🌍 Open to collaborations on **Open Source** and **Research Projects**
