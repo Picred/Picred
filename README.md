@@ -6,11 +6,11 @@
 
 ## 👋 About Me
 _Passionate about building efficient software solutions, experimenting with algorithms, and creating web applications that solve real-world problems._
-- 🎓 Computer Science Degree at Università degli Studi di Catania
-- 🧠 Master's Student in Computer Engineering at Politecnico di Torino
+- 🎓 Bachelor's Degree in Computer Science @ [Università degli Studi di Catania](https://www.unict.it/)
+- 🧠 Master's Student in Computer Engineering @ [Politecnico di Torino](https://www.polito.it/)
 - 💻 Passionate about **Web Development**, **Software Engineering**
 - 🌍 Open to collaborations on **Open Source** and **Research Projects**
-- 📫 Reach me at: **your.email@example.com**
+- ![Github Stars](https://img.shields.io/github/stars/picred?style=social)<br>
 
 ## 🚀 Projects
 - 🗺️ [Maze Navigation (Contributor)](https://github.com/Picred/maze-navigation) – Framework for navigation strategies in mazes. (Thesis).
@@ -57,8 +57,8 @@ _Passionate about building efficient software solutions, experimenting with algo
 
 
 ## 📫 Connect with me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuo-username/](https://www.linkedin.com/in/andreistefand/))   
-- 🌐 [Portfolio](https://picred.github.io)  
+- 🌐 [Portfolio](https://picred.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andreistefand/)
 
 ## Extra
 <a href="https://github.com/piyushsuthar/github-readme-quotes"> 
