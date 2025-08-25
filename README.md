@@ -1,73 +1,66 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Developer!+💻;&center=true&size=30">
-    </a>
-  </h1>
+# 👋 Hi, I'm Andrei Stefan
 
-  <a href="https://www.linkedin.com/in/andreistefand/">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Computer+Engineering+Student;Aspiring+Web+%26+Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-![Github Stars](https://img.shields.io/github/stars/picred?style=social)<br>
+## 👋 About Me
+_Passionate about building efficient software solutions, experimenting with algorithms, and creating web applications that solve real-world problems._
+- 🎓 Computer Science Degree at Università degli Studi di Catania
+- 🧠 Master's Student in Computer Engineering at Politecnico di Torino
+- 💻 Passionate about **Web Development**, **Software Engineering**
+- 🌍 Open to collaborations on **Open Source** and **Research Projects**
+- 📫 Reach me at: **your.email@example.com**
 
-  <p>
-    <strong>I'm Andrei Stefan</strong></u>
-    <br>
-    🎓 BSc in Computer Science @ Università degli Studi di Catania
-    <br>
-    📚 I'm currently studying Computer Engineering (LM-32) @ Politecnico di Torino
-    <br>
-    💻 I love writing code and learning about anything related to it
-  </p>
-
-  <h3 align="justify">📚 My Projects 📚</h3>
-  <ul>
-      <li><a href="https://github.com/Picred/maze-navigation">Maze Navigation (Contributor)</a> 🗺️ </li>
-      <li><a href="https://github.com/Picred/cineaura">Cineaura</a> 🌐</li>
-      <li><a href="https://github.com/Picred/air-quality-monitor">Air Quality Monitor</a> 📟</li>
-      <li><a href="https://github.com/Picred/brain-test-bot">Brain Test Bot</a> 🧠</li>
-      <li><a href="https://github.com/Picred/cinema-database">Database Cinema Project</a> 📚</li>
-      <li><a href="https://github.com/Picred/ccn-check">Credit Card Number Checker</a> 💳</li>
-      <li><a href="https://github.com/Picred/hangman-game">Hangman Game</a> 🎮</li>
-  </ul>
+## 🚀 Projects
+- 🗺️ [Maze Navigation (Contributor)](https://github.com/Picred/maze-navigation) – Framework for navigation strategies in mazes. (Thesis).
+- 🌐 [Cineaura](https://github.com/Picred/cineaura) – Web app for managing and discovering movies.
+- 📟 [Air Quality Monitor](https://github.com/Picred/air-quality-monitor) – Air quality monitoring of variable selected cities using APIs.
+- 🧠 [Brain Test Bot](https://github.com/Picred/brain-test-bot) – Telegram chatbot for quizzes and cognitive tests on different main topics.
+- 📚 [Database Cinema Project](https://github.com/Picred/cinema-database) – Relational database for cinema management.
+- 💳 [Credit Card Number Checker](https://github.com/Picred/ccn-check) – Credit card number validation (Luhn’s algorithm).
+- 🎮 [Hangman Game](https://github.com/Picred/hangman-game) – My first Hangman Game in Python.
 
 
-  <h3 align="justify">🔥 Languages & Tools 🔥</h3>
-  <p>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width:50px;" alt="c logo"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width:50px" alt="c++" />
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="width:50px" alt="java"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width:50px" alt="python"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="width:50px" alt="html"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width:50px" alt="css"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:50px" alt="javascript"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:50px" alt="bash"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width:50px" alt="git"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="width:50px" alt="github"/>    
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="width:50px" alt="vscode"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" style="width:60px" alt="laravel"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="width:60px" alt="docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original.svg"style="width:60px" alt="logstash"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" style="width:60px" alt="kafka"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" style="width:60px" alt="spark" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" style="width:60px" alt="elasticsearch" />
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg" style="width:60px" alt="kibana" />
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="width:60px" alt="jupyer" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" style="width:60px" alt="numpy"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width:60px" alt="react"/>
+### 💡 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+</p>
 
-  </p>
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+### 📊 Data & ML
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
+</p>
 
 
 
-  <br>
-  <br>
+## 📫 Connect with me
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tuo-username/](https://www.linkedin.com/in/andreistefand/))   
+- 🌐 [Portfolio](https://picred.github.io)  
 
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img class="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quotes">
-  </a>
-</body>
-</html>
+## Extra
+<a href="https://github.com/piyushsuthar/github-readme-quotes"> 
+  <img class="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Quotes"> 
+</a>
