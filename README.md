@@ -16,6 +16,7 @@ _Passionate about building efficient software solutions, experimenting with algo
 - 🌐 [Cineaura](https://github.com/Picred/cineaura) – Web app for managing and discovering movies.
 - 📟 [Air Quality Monitor](https://github.com/Picred/air-quality-monitor) – Air quality monitoring of variable selected cities using APIs.
 - 🧠 [Brain Test Bot](https://github.com/Picred/brain-test-bot) – Telegram chatbot for quizzes and cognitive tests on different main topics.
+- ⏭ [Granimal (Contributor)](https://github.com/Picred/granimal)- A platform that allows you to keep track of all your favorite anime.
 - 👨🏻‍💻 [Linux Terminal](https://github.com/Picred/linux-terminal-sim) - Linux Terminal on browser with some commands.
 - ☁  [Local Chat](https://github.com/Picred/local-chat) - Chat with your friends/colleagues in the same network.
 - 📚 [Database Cinema Project](https://github.com/Picred/cinema-database) – Relational database for cinema management.
