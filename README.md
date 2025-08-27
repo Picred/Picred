@@ -16,9 +16,11 @@ _Passionate about building efficient software solutions, experimenting with algo
 - 🌐 [Cineaura](https://github.com/Picred/cineaura) – Web app for managing and discovering movies.
 - 📟 [Air Quality Monitor](https://github.com/Picred/air-quality-monitor) – Air quality monitoring of variable selected cities using APIs.
 - 🧠 [Brain Test Bot](https://github.com/Picred/brain-test-bot) – Telegram chatbot for quizzes and cognitive tests on different main topics.
+- 👨🏻‍💻 [Linux Terminal](https://github.com/Picred/linux-terminal-sim) - Linux Terminal on browser with some commands.
+- ☁  [Local Chat](https://github.com/Picred/local-chat) - Chat with your friends/colleagues in the same network.
 - 📚 [Database Cinema Project](https://github.com/Picred/cinema-database) – Relational database for cinema management.
-- 💳 [Credit Card Number Checker](https://github.com/Picred/ccn-check) – Credit card number validation (Luhn’s algorithm).
 - 🎮 [Hangman Game](https://github.com/Picred/hangman-game) – My first Hangman Game in Python.
+- 💳 [Credit Card Number Checker](https://github.com/Picred/ccn-check) – Credit card number validation (Luhn’s algorithm).
 
 
 ### 💡 Languages
