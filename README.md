@@ -9,7 +9,7 @@ _Passionate about building efficient software solutions, experimenting with algo
 - 🧠 Master's Student in Computer Engineering @ [Politecnico di Torino](https://www.polito.it/)
 - 💻 Passionate about **Web Development**, **Software Engineering**
 - 🌍 Open to collaborations on **Open Source** and **Research Projects**
-- ![Github Stars](https://img.shields.io/github/stars/picred?style=social)<br>
+- ![Github Stars](https://img.shields.io/github/stars/picred?style=social) <span align="left"> <img src="https://komarev.com/ghpvc/?username=Picred&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </span> <br>
 
 ## 🚀 Projects
 - 🗺️ [Maze Navigation (Contributor)](https://github.com/Picred/maze-navigation) – Framework for navigation strategies in mazes. (Thesis).
