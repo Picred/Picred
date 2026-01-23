@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Computer+Engineering+Student;Aspiring+Web+%26+Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-## 👋 About Me
+## About Me
 _Passionate about building efficient software solutions, experimenting with algorithms, and creating web applications that solve real-world problems._
 - 🧠 Master's Student in Computer Engineering @ [Politecnico di Torino](https://www.polito.it/)
 - 💻 Passionate about **Web Development**, **Software Engineering**
@@ -12,6 +12,7 @@ _Passionate about building efficient software solutions, experimenting with algo
 - ![Github Stars](https://img.shields.io/github/stars/picred?style=social) <span align="left"> <img src="https://komarev.com/ghpvc/?username=Picred&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </span> <br>
 
 ## 🚀 Projects
+- 🛒 [EZShop](https://github.com/Picred/EZShop) – Application (API) to support a maanger or owner of a small shop with 2 or few more cash registers.
 - 🗺️ [Maze Navigation (Contributor)](https://github.com/Picred/maze-navigation) – Framework for navigation strategies in mazes. (Thesis).
 - 🌐 [Cineaura](https://github.com/Picred/cineaura) – Web app for managing and discovering movies.
 - 📟 [Air Quality Monitor](https://github.com/Picred/air-quality-monitor) – Air quality monitoring of variable selected cities using APIs.
@@ -21,7 +22,6 @@ _Passionate about building efficient software solutions, experimenting with algo
 - ☁  [Local Chat](https://github.com/Picred/local-chat) - Chat with your friends/colleagues in the same network.
 - 📚 [Database Cinema Project](https://github.com/Picred/cinema-database) – Relational database for cinema management.
 - 🎮 [Hangman Game](https://github.com/Picred/hangman-game) – My first Hangman Game in Python.
-- 💳 [Credit Card Number Checker](https://github.com/Picred/ccn-check) – Credit card number validation (Luhn’s algorithm).
 
 
 ### 💡 Languages
