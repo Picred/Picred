@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andrei Stefan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Computer+Engineering+Student;Aspiring+Web+%26+Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Computer+Software+Engineering+Student;Aspiring+Web+%26+Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## About Me
@@ -14,7 +14,7 @@ _Passionate about building efficient software solutions, experimenting with algo
 ## 🚀 Projects
 - 🛒 [EZShop](https://github.com/Picred/EZShop) – Application (API) to support a maanger or owner of a small shop with 2 or few more cash registers.
 - 🗺️ [Maze Navigation (Contributor)](https://github.com/Picred/maze-navigation) – Framework for navigation strategies in mazes. (Thesis).
-- 🌐 [Cineaura](https://github.com/Picred/cineaura) – Web app for managing and discovering movies. [DEMO](https://picred.github.io/cineaura)
+- 🌐 [Cineaura](https://github.com/Picred/cineaura) – Web app for managing and discovering movies. [Demo](https://picred.github.io/cineaura)
 - 📟 [Air Quality Monitor](https://github.com/Picred/air-quality-monitor) – Air quality monitoring of variable selected cities using APIs.
 - 🧠 [Brain Test Bot](https://github.com/Picred/brain-test-bot) – Telegram chatbot for quizzes and cognitive tests on different main topics.
 - ⏭ [Granimal (Contributor)](https://github.com/Picred/granimal)- A platform that allows you to keep track of all your favorite anime.
