@@ -12,6 +12,7 @@ _Passionate about building efficient software solutions, experimenting with algo
 - ![Github Stars](https://img.shields.io/github/stars/picred?style=social) <span align="left"> <img src="https://komarev.com/ghpvc/?username=Picred&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </span> <br>
 
 ## 🚀 Projects
+- 🚂 [Race The Rails](https://github.com/Picred/race-the-rails) – Full-stack client-server SPA featuring a dedicated frontend, REST APIs, and secure session authentication.
 - 🛒 [EZShop](https://github.com/Picred/EZShop) – Application (API) to support a maanger or owner of a small shop with 2 or few more cash registers.
 - 🗺️ [Maze Navigation (Contributor)](https://github.com/Picred/maze-navigation) – Framework for navigation strategies in mazes. (Thesis).
 - 🌐 [Cineaura](https://github.com/Picred/cineaura) – Web app for managing and discovering movies. [Demo](https://picred.github.io/cineaura)
