@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Andrei Stefan
 
 <p align="center">
@@ -31,7 +32,9 @@ _Passionate about building clean, maintainable, and efficient web applications. 
 
 
 ### 💡 Languages
-<p>
+[![Languages](https://skillicons.dev/icons?i=rust,bash,js,ts,py,java,c,cpp,php,processing)](https://skillicons.dev)
+
+<p> <!--
   <img src="https://cdn.simpleicons.org/rust/white" width="40" height="40" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -39,19 +42,30 @@ _Passionate about building clean, maintainable, and efficient web applications. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
+--></p>
 
-### ⚙️ Frameworks & Tools
-<p>
+
+
+
+## <img width="30" height="30" alt="immagine" src="https://github.com/user-attachments/assets/2d7307b9-4270-409d-b024-2633e3e436e3" /> Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap,daisyui)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![Backend](https://skillicons.dev/icons?i=laravel,docker,git,mysql,sqlite,mongodb,nodejs,vite)](https://skillicons.dev)
+
+<p><!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  -->
 </p>
 
 ### 📊 Data & ML
+<!-- [![Data&ML](https://skillicons.dev/icons?i=np,jupyter,kafka,apache,spark,elasticsearch)](https://skillicons.dev)
+-->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
@@ -60,6 +74,8 @@ _Passionate about building clean, maintainable, and efficient web applications. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
 </p>
+
+
 
 
 ## 📫 Connect with me
