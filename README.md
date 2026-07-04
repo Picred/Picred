@@ -14,7 +14,7 @@ _Passionate about building efficient software solutions, experimenting with algo
 ## 🚀 Projects
 - 🚂 [Race The Rails](https://github.com/Picred/race-the-rails) – Full-stack client-server SPA featuring a dedicated frontend, REST APIs, and secure session authentication.
 - 🛒 [EZShop](https://github.com/Picred/EZShop) – Application (API) to support a maanger or owner of a small shop with 2 or few more cash registers.
-- 🛒 [Tetris](https://github.com/Picred/tetris-landtiger) – Fully Tetris game implemented on a LandTiger LPC-1768 board with malus and powerups features, using ARM language and C.
+- 📟 [Tetris](https://github.com/Picred/tetris-landtiger) – Fully Tetris game implemented on a LandTiger LPC-1768 board with malus and powerups features, using ARM language and C.
 - 🗺️ [Maze Navigation (Contributor)](https://github.com/Picred/maze-navigation) – Framework for navigation strategies in mazes. (Thesis).
 - 🌐 [Cineaura](https://github.com/Picred/cineaura) – Web app for managing and discovering movies. [Demo](https://picred.github.io/cineaura)
 - 📟 [Air Quality Monitor](https://github.com/Picred/air-quality-monitor) – Air quality monitoring of variable selected cities using APIs.
