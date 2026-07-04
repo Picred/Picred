@@ -1,15 +1,19 @@
 # 👋 Hi, I'm Andrei Stefan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Computer+Software+Engineering+Student;Aspiring+Web+%26+Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Software+Application+Engineering;Clean+Code+%26+Full-Lifecycle+Web;Automated+Testing+%26+Debugging;Agile+Development+%26+Git+Workflow;" alt="Typing SVG" />
 </p>
 
+
 ## About Me
-_Passionate about building efficient software solutions, experimenting with algorithms, and creating web applications that solve real-world problems._
-- 🧠 Master's Student in Computer Engineering @ [Politecnico di Torino](https://www.polito.it/)
-- 💻 Passionate about **Web Development**, **Software Engineering**
-- 🌍 Open to collaborations on **Open Source** and **Research Projects**
-- ![Github Stars](https://img.shields.io/github/stars/picred?style=social) <span align="left"> <img src="https://komarev.com/ghpvc/?username=Picred&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </span> <br>
+_Passionate about building clean, maintainable, and efficient web applications. I bridge academic software engineering practices with hands-on development to solve real-world problems._
+
+- Master's Student in Computer Engineering @ [Politecnico di Torino](https://www.polito.it/)
+- **Software Engineering** & **Full-Lifecycle Web Development** (from SQL/NoSQL databases to clean client-side interfaces)
+- Experienced with **Git**, **Linux** environments, and building automated, testing-backed solutions
+- Open to collaborations on **Open Source**, **Web Platforms**, and innovative **Software Development** projects
+
+![Github Stars](https://img.shields.io/github/stars/picred?style=social) <span align="left"> <img src="https://komarev.com/ghpvc/?username=Picred&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </span> <br>
 
 ## 🚀 Projects
 - 🚂 [Race The Rails](https://github.com/Picred/race-the-rails) – Full-stack client-server SPA featuring a dedicated frontend, REST APIs, and secure session authentication.
@@ -28,22 +32,21 @@ _Passionate about building efficient software solutions, experimenting with algo
 
 ### 💡 Languages
 <p>
+  <img src="https://cdn.simpleicons.org/rust/white" width="40" height="40" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 </p>
 
 ### ⚙️ Frameworks & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
@@ -57,7 +60,6 @@ _Passionate about building efficient software solutions, experimenting with algo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
 </p>
-
 
 
 ## 📫 Connect with me
