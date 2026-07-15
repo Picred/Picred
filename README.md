@@ -84,5 +84,5 @@ _Passionate about building clean, maintainable, and efficient web applications. 
 
 ## Extra
 <a href="https://github.com/piyushsuthar/github-readme-quotes"> 
-  <img class="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Quotes"> 
+  <img class="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes"> 
 </a>
