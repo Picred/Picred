@@ -9,7 +9,7 @@
 ## About Me
 _Passionate about building clean, maintainable, and efficient web applications. I bridge academic software engineering practices with hands-on development to solve real-world problems._
 
-- Master's Student in Computer Engineering @ [Politecnico di Torino](https://www.polito.it/)
+- Master's Student in Software Engineering @ [Politecnico di Torino](https://www.polito.it/)
 - **Software Engineering** & **Full-Lifecycle Web Development** (from SQL/NoSQL databases to clean client-side interfaces)
 - Experienced with **Git**, **Linux** environments, and building automated, testing-backed solutions
 - Open to collaborations on **Open Source**, **Web Platforms**, and innovative **Software Development** projects
