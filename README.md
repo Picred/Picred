@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrei Stefan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1500&color=CD0000&background=FF000000&center=true&vCenter=true&width=1200&height=70&lines=Software+Engineer;Clean+Code;Software+Development+Life+Cycle;Software+Design+%2F+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=42&pause=1500&color=CD0000&background=FF000000&center=true&vCenter=true&width=1200&height=70&lines=Software+Engineer;Clean+Code;Software+Development+Life+Cycle;Software+Design+%2F+Architecture)](https://git.io/typing-svg)
 
 ## 📌 About Me
 _Passionate about building clean, maintainable, and efficient web applications. I bridge academic software engineering practices with hands-on development to solve real-world problems._
