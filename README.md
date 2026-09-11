@@ -20,7 +20,7 @@ _Passionate about building scalable backend architectures, clean APIs, and robus
 ## 🚀 Featured Projects
 
 ### 🔥 Highlighted Projects
-* [Georust](https://github.com/Picred/georust) - A Rust-based client-server application for simulating and monitoring vehicle telemetry. Vehicle clients transmit real-time GPS data via WebSockets to a server storing trips in SQLite, with CLI support for detailed route statistics.
+* 🚗 [Georust](https://github.com/Picred/georust) - A Rust-based client-server application for simulating and monitoring vehicle telemetry. Vehicle clients transmit real-time GPS data via WebSockets to a server storing trips in SQLite, with CLI support for detailed route statistics.
 * 🚂 [Race The Rails](https://github.com/Picred/race-the-rails) – Full-stack client-server SPA featuring dedicated frontend, REST APIs, local SQLite database storage, and a custom routing validation algorithm.
 * 📟 [Air Quality Monitor](https://github.com/Picred/air-quality-monitor) – Real-time data streaming and analytics pipeline built with Python, Apache Kafka, Apache Spark, Elasticsearch, Logstash, Kibana, and Docker.
 * 🛒 [EZShop](https://github.com/Picred/EZShop) – Retail management system designed in Python with SQLAlchemy ORM, extensive testing (Pytest), and structured SDLC documentation.
