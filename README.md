@@ -5,10 +5,10 @@
 ## 📌 About Me
 _Passionate about building scalable backend architectures, clean APIs, and robust software systems. I bridge academic computer science rigor with hands-on software engineering to build reliable, real-world applications._
 
-- 🎓 **Master's Student** in Software Engineering @ [Politecnico di Torino](https://www.polito.it/) (Expected 2027)
+- 🎓 **Master's Student** in Software Engineering @ [Politecnico di Torino](https://www.polito.it/)
 - 🎓 **B.Sc. in Computer Science** @ [Università di Catania](https://www.unict.it/) (**110/110 cum laude**)
-- 🎯 Focus on **Backend Engineering**, **System Architecture**, **Data Pipelines**, and **Automated Testing**
-- 🚀 Seeking **Curricular Internship / Master's Thesis in Company** starting Spring 2027 in Backend, Cloud, or Software Engineering
+- 🎯 Focus on **Backend Engineering**, **System Architecture** and **Automated Testing**
+- 🚀 Seeking **Curricular Internship / Master's Thesis in Company** starting Spring 2027 in Backend Engineering or Software Engineering
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Picred&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
