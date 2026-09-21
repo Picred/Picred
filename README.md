@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrei Stefan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&pause=1500&color=CD0000&background=FF000000&center=true&vCenter=true&width=1200&height=70&lines=Software+%26+Backend+Engineer;Distributed+Systems+%26+Data+Pipelines;Clean+Architecture+%26+Testing;Full-Lifecycle+SDLC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&pause=1500&color=CD0000&background=FF000000&center=true&vCenter=true&width=1200&height=70&lines=Software+%26+Backend+Engineer;Distributed+Systems;Clean+Architecture+%26+Testing;Full-Lifecycle+Software+Development)](https://git.io/typing-svg)
 
 ## 📌 About Me
 _Passionate about building scalable backend architectures, clean APIs, and robust software systems. I bridge academic computer science rigor with hands-on software engineering to build reliable, real-world applications._
